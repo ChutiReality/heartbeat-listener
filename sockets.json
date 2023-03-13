@@ -1,0 +1,26 @@
+[
+    {
+        "Name":"Test",
+        "URL":"ws://localhost:8000/",
+        "Webhook":"https://discord.com/api/webhooks/...",
+        "Message":"Personalized Send Message",
+        "Interval":5,
+        "Timeout":5
+    },
+    {
+        "Name":"Test 3",
+        "URL":"ws://localhost:8000/",
+        "Webhook":"https://discord.com/api/webhooks/...",
+        "Message":"Personalized Send Message",
+        "Interval":5,
+        "Timeout":5
+    },
+    {
+        "Name":"Test 3",
+        "URL":"ws://localhost:8000/",
+        "Webhook":"https://discord.com/api/webhooks/...",
+        "Message":"Personalized Send Message",
+        "Interval":5,
+        "Timeout":5
+    }
+]

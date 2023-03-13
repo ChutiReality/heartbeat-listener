@@ -1,0 +1,10 @@
+{
+    "Discord": {
+        "Webhook": {
+            "Embed": {
+                "Footer": "",
+                "Icon": ""
+            }
+        }
+    }
+}
